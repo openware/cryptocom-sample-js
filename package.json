@@ -1,0 +1,11 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "crypto-js": "^4.0.0"
+  }
+}
